@@ -38,7 +38,7 @@ export default function Home() {
   
   <a 
   class="inline-block w-full but2 sm:w-fit rounded-full border-4 border-blue-700 hover:bg-slate-800 text-white mt-3" 
-  href="\Mina Essam.pdf" 
+  href="\Mina Essam(CV).pdf" 
   download>
   <span class="block bg-[#121212] hover:bg-slate-800 rounded-full px-7 py-3">
     Download CV
@@ -47,11 +47,11 @@ export default function Home() {
 
 </div>
     </div>
-    <div className=' w-[450px] h-[450px] flex justify-center sm:mt-0  lg:mt-10 mr-5  rounded-full mina'>
+    <div className=' w-96 h-96 flex justify-center sm:mt-0  lg:mt-10 mr-5  rounded-full mina'>
     <img
         src="/person-playing-3d-video-games-device.jpg" 
         alt="mmm"
-        className="w-[350] h-[350] hidden xl:flex rounded-full mt-12 object-cover "/></div>
+        className="w-80 h-80 hidden xl:flex rounded-full mt-8 object-cover "/></div>
       
 </div>
 
